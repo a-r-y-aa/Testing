@@ -13,6 +13,10 @@ root: index
 parts:
   - chapters:
       # ===== Guide for Reproducible Research ========================================
+      - file: data-study-group
+      - file: phd-students
+      - file: group-leaders
+      - file: life-scientists
       - file: reproducible-research/reproducible-research
         sections:
           - title: Overview
