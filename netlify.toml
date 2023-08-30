@@ -1,6 +1,6 @@
 [build]
   base = "book/website"
-  command = "pip install pathways/ && pip install -r master/requirements.txt && python -m pathways.main pathways master/"
+  command = "python -m pip install --upgrade pip && pip install -r website/requirements.txt && python -m pathways.main pathways website/"
   publish = "_build/html"
 
 # Do not build deploy previews for branches from all-contributors bot
