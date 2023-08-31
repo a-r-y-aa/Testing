@@ -54,7 +54,7 @@ You can find more examples on the [Manchester's Data Access Statements page](htt
 
 A software citation has a lot of the same elements as a data citation, described above, and are described in more detail in the [Software Citation Principles](https://www.force11.org/software-citation-principles).
 When using others software, it is vital to cite and attribute it properly.
-<!-- 
+
 ::::{tab-set}
 :::{tab-item} GitHub
 :sync: github_tab
@@ -95,4 +95,4 @@ Detailed instructions for this process can be found in the [gitlab2zenodo](https
 ```
 
 :::
-:::: -->
+:::: 
