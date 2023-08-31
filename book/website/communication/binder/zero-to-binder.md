@@ -37,7 +37,6 @@ You will need:
 
 🚦🚦🚦
 
-<!-- 
 `````{tab-set}
 ````{tab-item} Python
 :sync: key1
@@ -556,4 +555,4 @@ Now you've binderized (bound?) this demo repo, it's time to binderize the exampl
 - Separating content from envorinment with `nbgitpuller` to reduced rebuilds:
   - **<https://discourse.jupyter.org/t/tip-speed-up-binder-launches-by-pulling-github-content-in-a-binder-link-with-nbgitpuller/922>**
 - Tips for reducing the start-up time of your repository:
-  - **<https://discourse.jupyter.org/t/how-to-reduce-mybinder-org-repository-startup-time/4956>** -->
+  - **<https://discourse.jupyter.org/t/how-to-reduce-mybinder-org-repository-startup-time/4956>** 
